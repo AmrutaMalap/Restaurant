@@ -1,0 +1,150 @@
+.hero-section{
+    background-image: url(../image/background/banner-bg.jpg.webp);
+    height: 600px;
+    background-position: center;
+}
+.head{
+    height:100%;
+}
+.Natural{
+    background-image: url(../image/background/reservation-bg.jpg.webp);
+    height: 450px;
+    background-position: center;
+}
+.welcome-img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.wel p{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.wel a{
+    background-color: orange;
+    padding: 10px;
+    
+}
+.wel a:hover{
+    border: 1px solid orange;
+    background-color: white;
+}
+.food-one h2{
+    margin-top: 30px;
+}
+.figure figcaption{
+    padding: 20px;
+}
+.figure figcaption:hover{
+    background-color: orange;
+}
+.figure span{
+    margin-top: 5px;
+}
+.figure figure{
+    margin-top: 40px;
+}
+.Natural-wrapper a{
+    background-color: orange;
+    padding: 10px;
+    color: black;
+    text-align: center;
+}
+.Natural-wrapper a:hover{
+    border: 1px solid orange;
+    background-color: white;
+    color: orange;
+}
+.dish{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.dash{
+    width: 80%;
+    height: 2px;
+    background-color: black;
+    margin-top: 20px;
+}
+.update{
+    margin-top: 100px;
+    background-image: url(../image/background/testimonial-bg.jpg.webp);
+    background-position: center;
+    height: 600px;
+}
+.main-one{
+    padding-top: 100px;
+
+}
+.main-two{
+    padding-top: 50px;
+
+}
+.main-two figure{
+    margin-top: 100px;
+}
+.div{
+    height: 50px;
+    width: 100%;
+    background-color:white;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.book{
+    background-image: url(../image/background/table-bg.jpg.webp);
+    background-position: center;
+    height: 450px;
+}
+.book-wrapper a{
+    background-color: orange;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.book-wrapper a:hover{
+    border: 1px solid orange;
+    background-color: white;
+    color: orange;
+}
+.footer{
+    background-color: rgb(33, 33, 95);
+}
+.footer-div{
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}
+.wel{
+    padding-top: 50px;
+}
+.food{
+    padding-top: 50px;
+}
+.figure{
+    padding-top: 50px;
+}
+.div1{
+    margin-bottom: 30px;
+}
+.fig{
+    background-color: #f9f9ff;
+    padding: 20px 20px;
+}
+.fig:hover{
+    background-color: #f8f9fa;
+}
+.list{
+    list-style-type: none;
+    width: 80%;
+    margin-top:16px;
+}
+.desk-nav{
+    background-color: rgb(246, 234, 234);
+    padding: 10px;
+}
+.natural-one{
+    height: 430px;
+}
+
+
